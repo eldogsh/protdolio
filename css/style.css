@@ -8,6 +8,17 @@
     --main-transition: 0.3s;
 }
 
+/*div language*/
+.lang{
+    background-color: #10093b;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 22px;
+    color: #ba2ae7ed;
+}
 /* Our Style */
 
 
