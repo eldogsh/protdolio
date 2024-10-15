@@ -76,6 +76,12 @@ nav ul{
 .landing{
     min-height: calc(100vh - 64px);
 }
+@media (max-width:700px){
+    .me{
+        margin-left: 60px;
+    }
+}
+
 
 .buttons {
     gap: 25px;
